@@ -3,13 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Listado de Sexos</title>
+    <title>Lista Sex</title>
     <link rel="stylesheet" href="/sexo/public/css/style.css">
 </head>
 <body>
 
 <div class="container">
-    <h1>Listado de los  Sexos</h1>
+    <h1>Lista Sex</h1>
     <a href="/sexo/app/views/sexo/create.php"><button>Agregar Sexo</button></a>
 
     <table>
